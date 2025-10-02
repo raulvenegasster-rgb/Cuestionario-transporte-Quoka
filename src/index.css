@@ -1,6 +1,18 @@
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-* { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+:root {
+  font-family: "Inter", "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+  color: #111827;
+  background-color: #f5f5f4;
+}
+
+body {
+  @apply bg-neutral-100;
+  margin: 0;
+}
+
+a {
+  color: inherit;
+}
