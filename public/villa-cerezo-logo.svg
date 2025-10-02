@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 120">
+  <defs>
+    <linearGradient id="leaf" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2f855a" />
+      <stop offset="50%" stop-color="#48bb78" />
+      <stop offset="100%" stop-color="#9ae6b4" />
+    </linearGradient>
+  </defs>
+  <rect width="320" height="120" rx="18" fill="#0f172a" />
+  <g transform="translate(26 20)">
+    <path d="M52 12c18 6 28 22 28 36 0 18-12 32-32 32-22 0-36-18-36-38 0-20 14-36 32-30 0 0 4 2 8 0z" fill="url(#leaf)" opacity="0.9" />
+    <path d="M22 52c10-10 30-16 52-10-8 12-24 20-40 20-6 0-10-2-12-10z" fill="#134e4a" opacity="0.9" />
+    <circle cx="54" cy="36" r="10" fill="#ecfeff" opacity="0.9" />
+  </g>
+  <text x="130" y="58" font-family="'Playfair Display', 'Times New Roman', serif" font-size="42" fill="#f8fafc" letter-spacing="2">Villa</text>
+  <text x="130" y="98" font-family="'Playfair Display', 'Times New Roman', serif" font-size="42" fill="#f1f5f9" letter-spacing="4">Cerezo</text>
+  <text x="132" y="24" font-family="'Inter', sans-serif" font-size="14" fill="#a5f3fc" letter-spacing="4">ESTUDIO</text>
+</svg>
